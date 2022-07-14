@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+    - {fileID: 2800000, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+    - {fileID: 2800000, guid: f715b14eb094a854cb777be606559cf5, type: 3}
+    - {fileID: 21300000, guid: 122ad3757ab362b4fb28479e804eef48, type: 3}
+    - {fileID: 21300000, guid: 2b152c6874ee8764996a4691e98a3342, type: 3}
+    - {fileID: 21300000, guid: 4668f08864533f24b9b5980d5cc57089, type: 3}
+    - {fileID: 2800000, guid: 4668f08864533f24b9b5980d5cc57089, type: 3}
+    totalSpriteSurfaceArea: 559428
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 122ad3757ab362b4fb28479e804eef48, type: 3}
+  - {fileID: 21300000, guid: 2b152c6874ee8764996a4691e98a3342, type: 3}
+  - {fileID: 21300000, guid: 4668f08864533f24b9b5980d5cc57089, type: 3}
+  - {fileID: 21300016, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300018, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300008, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300010, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300012, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300014, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300000, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300002, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300004, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300006, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300034, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300032, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300030, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300028, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300026, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300024, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300056, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300022, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300058, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300020, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300044, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300046, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300040, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300038, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300042, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300036, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300052, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300068, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300054, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300048, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300050, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300062, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300060, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300066, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300064, guid: 51095c0ded273b74cad074f0d7d6b32a, type: 3}
+  - {fileID: 21300046, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300044, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300042, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300040, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300032, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300034, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300028, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300030, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300024, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300026, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300020, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300022, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300006, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300004, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300002, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300000, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300014, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300036, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300012, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300038, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300010, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300008, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300018, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300016, guid: 18aea4ad1fabb2f4999f06c752ae2293, type: 3}
+  - {fileID: 21300000, guid: f715b14eb094a854cb777be606559cf5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - colorful-purple-sky-with-cactus-desert-landscape_105940-419
+  - Screenshot_3
+  - End (Idle)
+  - objects_8
+  - objects_9
+  - objects_4
+  - objects_5
+  - objects_6
+  - objects_7
+  - objects_0
+  - objects_1
+  - objects_2
+  - objects_3
+  - objects_17
+  - objects_16
+  - objects_15
+  - objects_14
+  - objects_13
+  - objects_12
+  - objects_28
+  - objects_11
+  - objects_29
+  - objects_10
+  - objects_22
+  - objects_23
+  - objects_20
+  - objects_19
+  - objects_21
+  - objects_18
+  - objects_26
+  - objects_34
+  - objects_27
+  - objects_24
+  - objects_25
+  - objects_31
+  - objects_30
+  - objects_33
+  - objects_32
+  - tiles_23
+  - tiles_22
+  - tiles_21
+  - tiles_20
+  - tiles_16
+  - tiles_17
+  - tiles_14
+  - tiles_15
+  - tiles_12
+  - tiles_13
+  - tiles_10
+  - tiles_11
+  - tiles_3
+  - tiles_2
+  - tiles_1
+  - tiles_0
+  - tiles_7
+  - tiles_18
+  - tiles_6
+  - tiles_19
+  - tiles_5
+  - tiles_4
+  - tiles_9
+  - tiles_8
+  - bg4
+  m_RenderDataMap: {}
+  m_Tag: Atlas
+  m_IsVariant: 0

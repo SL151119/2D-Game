@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Wall
+  - Water
+  - Traps
+  - Platform
+  - Chest
+  - Key
+  - Coin
+  - EnemyFireball
+  - Fireball
+  - Third
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - Platform
+  - Fireball
+  - EnemyFireball
+  - Trap
+  - Coins
+  - Key
+  - Particle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4289500639
+    locked: 0
+  - name: Saw
+    uniqueID: 3983078857
+    locked: 0
+  - name: Ground
+    uniqueID: 1612905977
+    locked: 0
+  - name: Player
+    uniqueID: 542437245
+    locked: 0
